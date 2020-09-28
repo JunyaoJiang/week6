@@ -1,6 +1,7 @@
 # week6 - Professional Time Converter
 ---
 
+
 ## Description
 ---
 This program will convert a user inputted time into the *desired* time based on their specified time zone.
@@ -31,3 +32,9 @@ Creators aka The Benevolant Dictators: Andrew Potter, Alex Wang, Junyao Jiang
 
 ## Miscellany
 ---
+=======
+This is a group project
+member: Andrew Potter, Alex Wang, Junyao Jiang
+
+The userinput program is a time reminder and will convert the time into other timezone. It requires username and time input.
+
