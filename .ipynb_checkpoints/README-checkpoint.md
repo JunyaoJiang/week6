@@ -5,6 +5,7 @@
 ---
 This program will convert a user inputted time into the *desired* time based on their specified time zone.
 
+<<<<<<< HEAD
 ## Usage
 ---
 
@@ -33,3 +34,7 @@ You can read all the terms and conditions [here](LICENSE.md)
 
 ## Miscellany
 ---
+=======
+# Code of Conduct [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+The userinput program is a time reminder and will convert the time into other timezone. It requires username and time input.
+>>>>>>> origin

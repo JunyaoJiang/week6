@@ -1,6 +1,7 @@
 # week6 - Professional Time Converter
 ---
 
+
 ## Description
 ---
 This program will convert a user inputted time into the *desired* time based on their specified time zone.
@@ -33,4 +34,13 @@ You can read all the terms and conditions [here](LICENSE.md)
 
 ## Miscellany
 ---
+<<<<<<< HEAD
 We picked the GNU GPL as it also used by Linux, WordPress and many other openly sourced softwares. Quoting directly from its [website](https://www.gnu.org/home.html) , GNU, "respects users' freedom".
+=======
+=======
+This is a group project
+member: Andrew Potter, Alex Wang, Junyao Jiang
+
+The userinput program is a time reminder and will convert the time into other timezone. It requires username and time input.
+
+>>>>>>> origin
