@@ -1,10 +1,12 @@
 # week6 - Professional Time Converter
 ---
+# Creators: 
+#### Alex Wang, Junyao Jiang
 
 
 # Description
 ---
-This program will convert a user inputted time into the *desired* time based on their specified time zone.
+This program will ask for a user inputted time and time zone and format it.
 
 # Usage
 ---
@@ -12,11 +14,10 @@ What is your name?
  Alex
 Enter a time in the format HH:MM: 
  12:12
-12 12
 What is the current time zone? Choose from EST, CST, PST, or UTC. 
- utc
+ est
 Hi Alex!
-The current time is 12:12 in the UTC time zone.
+The current time is 12:12 in the EST time zone.
 
 # Support
 ---
@@ -26,9 +27,6 @@ Feel free to shoot me an email at  alw245@pitt.edu
 ---
 We are always open to contributions! Just fork the file and make your preferred changes. Afterwards please submit a pull request detailing your awesome new updates.
 
-
-#Creators: 
-Alex Wang, Junyao Jiang
 
 # Code of Conduct
 ---
